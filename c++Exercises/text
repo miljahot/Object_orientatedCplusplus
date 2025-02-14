@@ -1,0 +1,10 @@
+{"name":"Laptop", "price":50, "weight":2, "count": 5}
+{"name":"Smartphone", "price":899.99, "weight":400, "count": 15}
+{"name":"Headphones", "price":150.00, "weight":300, "count": 25}
+{"name":"Smartwatch", "price":199.99, "weight":100, "count": 30}
+{"name":"Tablet", "price":450.00, "weight":600, "count": 8}
+{"name":"Camera", "price":800.00, "weight":1200, "count": 12}
+{"name":"Gaming Console", "price":350.00, "weight":35, "count": 10}
+{"name":"Wireless Mouse", "price":25.99, "weight":15, "count": 50}
+{"name":"Keyboard", "price":50.00, "weight":10, "count": 40}
+{"name":"External Hard Drive", "price":120.00, "weight":5, "count": 20}
